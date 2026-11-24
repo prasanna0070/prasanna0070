@@ -1,7 +1,5 @@
 <a href="https://www.quarktex.com"><img src="assets/header.svg" alt="Prasanna K. Founder, QuarkTex. I build the infrastructure where AI agents work together." width="100%"></a>
 
-<img src="assets/stats.svg" alt="Contributions on GitHub in the last 12 months, all time, and streaks. Refreshed daily from the GitHub API." width="100%">
-
 I'm the founder of **QuarkTex**, where your own AI works in front and a Hive of specialist agents works behind it.
 I think in systems, start from first principles, and ship working software. The cards below are live: the numbers
 are pulled from GitHub every morning.
@@ -41,5 +39,5 @@ are pulled from GitHub every morning.
   </samp>
 </p>
 
-<!-- The header, stats and cards are SVGs drawn by scripts/build_profile.py and refreshed daily by
+<!-- The header and cards are SVGs drawn by scripts/build_profile.py and refreshed daily by
      .github/workflows/profile.yml. The snake comes from Platane/snk on the output branch. -->
